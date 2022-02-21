@@ -24,8 +24,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'π.site',
-      url: 'https://π.site/'
+      text: '353.ee',
+      url: 'https://353.ee/'
     },
     {
       text: 'Status',
