@@ -27,7 +27,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://ono,ee/'
+      url: 'https://ono.ee/'
     },
   ],
 };
