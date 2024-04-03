@@ -1,3 +1,3 @@
-＃状态
-使用https://github.com/yb/uptime-status/releases
-此项目来监控网站运行情况
+## 状态
+- 使用 https://github.com/yb/uptime-status
+- 此项目来监控网站运行情况
