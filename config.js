@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '网站状态监控',
+  SiteName: 'Public Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -18,7 +18,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '错误代码Team',
+      text: 'Error Code Team',
       url: 'https://353.ee/'
     },
     {
